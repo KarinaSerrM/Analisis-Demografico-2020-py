@@ -1,4 +1,4 @@
-# Análisis de Mortalidad Infantil y Esperanza de Vida (2020)
+# Análisis demográfico 2020-py
 
 Este repositorio contiene un análisis de datos enfocado en explorar la relación entre la tasa de mortalidad infantil y la esperanza de vida en distintos países durante el año 2020. Se utilizan herramientas de manipulación y visualización de datos en Python para obtener conclusiones significativas.
 
